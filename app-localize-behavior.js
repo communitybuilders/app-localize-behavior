@@ -10,7 +10,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 import '@polymer/polymer/polymer-legacy.js';
 
 import '@polymer/iron-ajax/iron-ajax.js';
-import 'intl-messageformat/dist/intl-messageformat.min.js';
 
 /**
 * `Polymer.AppLocalizeBehavior` wraps the [format.js](http://formatjs.io/) library to
